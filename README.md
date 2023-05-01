@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I am a passionate Front-end Developer who enjoys spending countless hours coding.<br><br>👨🏻‍💻 I love learning new technologies and dealing with new challenges .<br><br>🔍 Learn more about me here
+💡 I am a passionate Front-end Developer who enjoys spending countless hours coding.<br><br>👨🏻‍💻 I love learning new technologies and dealing with new challenges .
 
 
 ## 🌐 Socials:
