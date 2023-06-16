@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Mahdi Touiserkani
-💡 I am a passionate Front-end Developer who enjoys spending countless hours coding.<br><br>👨🏻‍💻 I love learning new technologies and dealing with new challenges .
+💡 I am a passionate Front-end Developer who enjoys spending countless hours coding.<br><br>👨🏻‍💻 I love learning new technologies and dealing with new challenges .<br><br> 💬 Ask me about Next.js , React.js , Typescript and Javascript.<br><br> 📫Contact me via mahditouiserkani@yahoo.com
+
 
 
 ## 🌐 Socials:
