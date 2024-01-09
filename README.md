@@ -2,7 +2,7 @@
 
 <h3 align="center">I am an Enthusiastic Front-end Developer who enjoys spending countless hours coding. With 2 years of experience, I have successfully delivered robust solutions across various domains, with a strong focus on performance and user experience.</h3>
 
-💡 I am a passionate Front-end Developer who enjoys spending countless hours coding.<br><br>👨🏻‍💻 I love learning new technologies and dealing with new challenges .<br><br> 💬 Ask me about Next.js , React.js , Typescript and Javascript.<br><br> 📫Contact me via mahditouiserkani@yahoo.com
+👨🏻‍💻 I love learning new technologies and dealing with new challenges .<br><br> 💬 Ask me about Next.js , React.js , Typescript and Javascript.<br><br> 📫Contact me via mahditouiserkani@yahoo.com
 
 
 
