@@ -6,7 +6,7 @@
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mahditouiser/) &nbsp;[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahdi-touiser/)
 
 # 💻 Tech Stack:
