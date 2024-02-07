@@ -1,4 +1,5 @@
 #                                                                     Hi 👋, I'm Mahdi Touiserkani
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h3 align="center">I am an Enthusiastic Front-end Developer who enjoys spending countless hours coding. With 2 years of experience, I have successfully delivered robust solutions across various domains, with a strong focus on performance and user experience.</h3>
 
