@@ -1,17 +1,39 @@
 <h1 align="center">Hi 👋, I'm Mahdi Touiserkani</h1>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<h3 align="center">I am an Enthusiastic Front-end Developer who enjoys spending countless hours coding. With 3 years of experience, I have successfully delivered robust solutions across various domains, with a strong focus on performance and user experience.</h3>
+<h3 align="center">
+Full-Stack JavaScript Developer with 3+ years of experience building robust, high-performance web applications. Passionate about clean code, scalable systems, and delivering exceptional user experiences.
+</h3>
 
-👨🏻‍💻 I love learning new technologies and dealing with new challenges .<br><br>  🔭 I’m currently working on [AIDAL Company](https://aidal.ir/) 
-<br><br> 💬 Ask me about Next.js , React.js , Typescript and Javascript.<br><br> 📫 Contact me via mahditouiserkani@yahoo.com
+- 👨🏻‍💻 Currently working at [AIDAL Company](https://aidal.ir/)
+- 🚀 Focused on modern web technologies and scalable full-stack solutions
+- 💬 Ask me about: Next.js, React.js, TypeScript, JavaScript, Node.js
+- 📫 Reach me at: mahditouiserkani@yahoo.com
 
+---
 
+# 🌐 Socials  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mahditouiser/) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahdi-touiser/)
 
-# 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mahditouiser/) &nbsp;[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahdi-touiser/)
+---
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=webpack,docker)](https://skillicons.dev)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=vite,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-<br/>
+# 💻 Tech Stack
+
+**Languages & Frameworks**  
+[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev) &nbsp;
+[![Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+
+**Styling & UI**  
+[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,scss)](https://skillicons.dev)
+
+**Tools & Platforms**  
+[![Skills](https://skillicons.dev/icons?i=vite,webpack,docker,git,github)](https://skillicons.dev)
+
+**State & Data Management**  
+[![Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+
+---
+
+📌 *Always learning, always building.*
+
