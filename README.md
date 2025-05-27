@@ -30,7 +30,7 @@ Full-Stack JavaScript Developer with 3+ years of experience building robust, hig
 [![Skills](https://skillicons.dev/icons?i=vite,webpack,docker,git,github)](https://skillicons.dev)
 
 **State & Data Management**  
-[![Skills](https://skillicons.dev/icons?i=redux,zustand)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 
 ---
 
