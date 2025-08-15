@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Touiserkani</h1>
 
 <h3 align="center">
-Full-Stack JavaScript Developer with 3+ years of experience building robust, high-performance web applications. Passionate about clean code, scalable systems, and delivering exceptional user experiences.
+Full-Stack JavaScript Developer experienced in building robust, high-performance web applications. Passionate about clean code, scalable systems, and delivering exceptional user experiences.
 </h3>
 
 - 👨🏻‍💻 Currently working at [AIDAL Company](https://aidal.ir/)
