@@ -7,7 +7,7 @@ Full-Stack JavaScript Developer experienced in building robust, high-performance
 - 👨🏻‍💻 Currently working at [AIDAL Company](https://aidal.ir/)
 - 🚀 Focused on modern web technologies and scalable full-stack solutions
 - 💬 Ask me about: Next.js, React.js, TypeScript, JavaScript, Node.js
-- 📫 Reach me at: mahditouiserkani@yahoo.com
+- 📫 Reach me at: mahditouiserkani78@gmail.com
 
 ---
 
